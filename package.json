@@ -56,7 +56,7 @@
     "tunnel-agent": "^0.6.0",
     "uuid": "^3.3.2"
   },
-  "deprecated": "request has been deprecated, see https://github.com/request/request/issues/3142",
+  "deprecated": false,
   "description": "Simplified HTTP request client.",
   "devDependencies": {
     "bluebird": "^3.2.1",
