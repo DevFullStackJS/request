@@ -115,5 +115,5 @@
     "test-ci": "taper tests/test-*.js",
     "test-cov": "nyc --reporter=lcov tape tests/test-*.js"
   },
-  "version": "2.88.2"
+  "version": "2.88.3"
 }
